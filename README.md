@@ -94,6 +94,10 @@ The homepage uses published standard WordPress posts:
 
 ![NEXORA RAG article](screenshots/nexora-article-rag.png)
 
+### Theme activation
+
+![NEXORA active theme](screenshots/nexora-theme-activated.png)
+
 ## Verification
 
 The implementation was verified locally on WordPress with:
