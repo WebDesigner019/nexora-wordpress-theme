@@ -107,6 +107,22 @@ The implementation was verified locally on WordPress with:
 - RAG and API article diagram checks
 - Article and comment-layout overflow checks
 
+## Lecturer requirement checklist
+
+| Requirement | Implementation |
+|---|---|
+| Header and navigation | `header.php`, registered Primary Menu, mobile menu toggle |
+| Footer | `footer.php` |
+| Front page | `front-page.php` with dynamic editorial queries |
+| Blog/archive | `home.php`, `archive.php`, reusable Loop template parts |
+| Single article | `single.php`, comments, metadata, diagrams, editorial block |
+| Sidebar/supporting component | `sidebar.php` and registered Primary Sidebar |
+| Template Hierarchy and The Loop | Classic WordPress templates and native `WP_Query` |
+| Theme stylesheet | `style.css` with theme header and responsive design |
+| Theme functions | `functions.php` with setup, menus, thumbnails, assets, pagination |
+| Responsive design | Desktop, tablet, and mobile breakpoints |
+| Original identity | NEXORA logo, assets, editorial content model, and visual system |
+
 ## Submission scope
 
 This repository contains only the NEXORA theme source code and approved theme assets. It does not contain the WordPress core installation, database exports, uploads outside the theme, credentials, passwords, or configuration files.
