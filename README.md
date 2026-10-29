@@ -119,6 +119,6 @@ The implementation was verified locally on WordPress with:
 | Responsive design | Desktop, tablet, and mobile breakpoints |
 | Original identity | NEXORA logo, assets, editorial content model, and visual system |
 
-## Submission scope
+## Scope
 
 This repository contains only the NEXORA theme source code and approved theme assets. It does not contain the WordPress core installation, database exports, uploads outside the theme, credentials, passwords, or configuration files.
