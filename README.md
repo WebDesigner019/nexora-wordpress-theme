@@ -2,12 +2,6 @@
 
 NEXORA is a reusable classic WordPress theme for a technology and digital-learning editorial publication. It presents technology insights, research perspectives, programming articles, and digital-education content through a responsive editorial interface.
 
-## Student information
-
-- **Name:** Muhammad Mansur Adam
-- **NIM:** 2406431100110
-- **GitHub:** [WebDesigner019/nexora-wordpress-theme](https://github.com/WebDesigner019/nexora-wordpress-theme)
-
 ## Features
 
 - Classic WordPress theme using Template Hierarchy and The Loop
@@ -83,8 +77,6 @@ The homepage uses published standard WordPress posts:
 - Up to four further published posts appear in Across Technology and Research.
 - Posts are excluded from later sections once used earlier.
 - Featured images, excerpts, metadata, categories, and permalinks are dynamic.
-
-## Screenshots
 
 ### Homepage
 
