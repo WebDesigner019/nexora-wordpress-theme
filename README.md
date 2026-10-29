@@ -103,7 +103,7 @@ The implementation was verified locally on WordPress with:
 - RAG and API article diagram checks
 - Article and comment-layout overflow checks
 
-## Lecturer requirement checklist
+## Checklist requirement
 
 | Requirement | Implementation |
 |---|---|
